@@ -16,6 +16,7 @@ A simple Spring Boot REST API for managing blog posts, demonstrating CRUD operat
 - Spring Boot
 - Spring Data JPA (Hibernate)
 - PostgreSQL / H2 Database (in-memory)
+- Swagger UI
 - Maven
 - JUnit & Mockito for testing
 - Git
